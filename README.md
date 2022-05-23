@@ -12,7 +12,7 @@ This template is a minimum starting point for a Three.js web project.
 
 ## Parcel
 
-Parcel is a web application bundler, differentiated by its developer experience. To install parcel, if you don't have it yet, type:
+[Parcel](https://en.parceljs.org) is a 	web application bundler, differentiated by its developer experience. To install parcel, if you don't have it yet, type:
 
 ```sh
 npm install -g parcel-bundler
