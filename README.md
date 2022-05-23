@@ -1,4 +1,4 @@
-# Tree.js template
+# Three.js template
 _Gilbert François Duivesteijn_
 
 Special thanks to the original author _Yuri Artiukh_.
